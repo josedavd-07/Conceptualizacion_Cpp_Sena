@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	
-	// Calcular aceleracion de un veh�culo
+	// Calcular aceleracion de un vehiculo
 	// a = (velocidad final - velocidad inicial) / tiempo
 	
 	//Miembros variable  declarados sin inicializar
@@ -19,7 +19,7 @@ int main(){
 	cin >> tiempo;
 	
 	
-	//Formula de c�lcular  la aceleraccion
+	//Formula de calcular  la aceleraccion
 	aceleraccion = (velocidad_final - velocidad_inicial) / tiempo; 
 	
 	cout << endl << "La aceleraccion del vehiculo es: " << aceleraccion << endl;
